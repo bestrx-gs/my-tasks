@@ -1,0 +1,25 @@
+Date:
+    Status
+    
+    
+Aug, 21st
+1. Completed the setup
+2. Completed the POC < student information system that can show the info on students,
+                        Registered courses
+                        To Add a course 
+                        To create a course
+                        CRUD operations on student and courses records.
+                        
+Aug, 22nd
+1. Started working on developing the business logic to implement data-flow for import_templates (bestRx) in the Questionnaire.Srvice project
+    Files: TemplateController<DataAccess,Service>
+    
+Aug 23rd
+1. Completed developing the logic to import the bestRx templates
+2. Completed the logic to view bestRx only after they click Use BestRxtemplates
+
+Aug, 24th
+1. completed UI enhancements of the importTemplates.
+
+Aug 25th
+1. Completed adding the category dropbox, UI enhancements such as dynamic page title, hiding the UI elemtns after they user proceeds to use BestRx templates

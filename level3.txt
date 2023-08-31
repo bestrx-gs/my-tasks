@@ -1,0 +1,18 @@
+Date
+    Status
+
+Aug 28th 
+    1. Started working on the UI enhancements
+    Work Stopper!: (faced some dependency file issue in my setup after offshore changed their DB setup)
+Aug 29th
+1. Started working on ui enhancements such repositioning ui elements in template page and aligning the actions UI in the template list table.
+2. Planning to proceed to work on maintaining the session after they have chosen to use bestrx template and adding a button that would allow them to route back to their templates when they choose to do so.
+
+Aug 30th
+1. Completed UI fixes such as actions warping, phantom checkbox column in data table.
+2. Hiding the edit, delete action button for our template at UI level for the pharmacy users.
+
+Aug 31st
+1. Completed the UI enhancementsand business logic for maintaining the session and reverting back to their templates.
+2. Started working on new tasks, changing the UseBestRx template hyperlink to Import BestRx Template button and Use My templates button for the pharmacy to be able to use our template and revert back when they want to.
+3. UI fixes such as showing toast after import template and reposition of few UI elements.
