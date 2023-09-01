@@ -11,8 +11,15 @@ Aug 29th
 Aug 30th
 1. Completed UI fixes such as actions warping, phantom checkbox column in data table.
 2. Hiding the edit, delete action button for our template at UI level for the pharmacy users.
+3. Completed working on maintaining the state whenever the users chooses to start using the bestrx templates
 
 Aug 31st
 1. Completed the UI enhancementsand business logic for maintaining the session and reverting back to their templates.
 2. Started working on new tasks, changing the UseBestRx template hyperlink to Import BestRx Template button and Use My templates button for the pharmacy to be able to use our template and revert back when they want to.
 3. UI fixes such as showing toast after import template and reposition of few UI elements.
+
+Sep 1st
+1. Completed the session management for the user to be able to stay in same page either when are using the BestRX Template or their own templates
+2. Completed UI enhancements and UI fixes.
+    + Adding new UI such as category dropdown for the pharmacy to choose the cateogry that they must import to, button to give them an option to go back to view their templates.
+3. Starting working on some bugs.
