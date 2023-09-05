@@ -23,3 +23,8 @@ Sep 1st
 2. Completed UI enhancements and UI fixes.
     + Adding new UI such as category dropdown for the pharmacy to choose the cateogry that they must import to, button to give them an option to go back to view their templates.
 3. Starting working on some bugs.
+
+Week
+1. Completed the UI enhancements for the import template page.
+2. Completed the functionaility of switching between their templates and bestRx Template.
+3. Fixed new bugs.
