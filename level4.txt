@@ -1,0 +1,7 @@
+Date
+    Status
+
+Sep 5th
+1. Fix a bug that preolads the wrong pharmacy ID for the first page load.
+2. Started working on copy template feature.
+
