@@ -2,6 +2,27 @@ Date
     Status
 
 Sep 5th
-1. Fix a bug that preolads the wrong pharmacy ID for the first page load.
-2. Started working on copy template feature.
+1. Created SP for GetTemplatesCount (DraftTemplate and publishedTemplates).
+2. Completed the business logic for GetTemplatesCount endpoint in the QuestionnaireService
+3. Refactored the code for import template, and made corrections to the importTemplate business logic and UI at Templates Page.
 
+Sep 6th
+1. Modified the stored procedures to help us make approprite business logic changes in the category page.
+2. Fixed two of the pending bugs.
+3. Minor changes for DeleteCategory at service side.
+
+
+Sep 7th
+1. Went thorugh with refactoring of code.
+2. Fixed the bug for cateogry delete custom message and importTemplates userID.
+
+Sep 8th
+1. Committed changes, refactored the code.
+2. Modified SPs CreateListEntry and GetListID, created data scripts for the team to have consistent data across each of our machine.
+
+
+Summary:
+1. Created SPs for GetTemplatesCount, completed its business logic, and improved import template code.
+2. modified stored procedures, fixed two bugs, and made minor DeleteCategory changes.
+3. Began work on the dashboard page part and fixed bugs.
+4.Committed code changes, refactored, and worked on data scripts and SPs for List and ListEntry table
