@@ -1,0 +1,10 @@
+Date
+    Status
+
+Sep 11th
+1. Started working on the template page mirror on the dashboard --- Delayed
+
+Sep 12th
+1. Completed interchanging the dashboard and template page
+2. Started working on the pagnation, other minor features for displaying templates.
+3. 
