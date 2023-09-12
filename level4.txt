@@ -22,7 +22,7 @@ Sep 8th
 
 
 Summary:
-1. Created SPs for GetTemplatesCount, completed its business logic, and improved import template code.
-2. modified stored procedures, fixed two bugs, and made minor DeleteCategory changes.
-3. Began work on the dashboard page part and fixed bugs.
-4.Committed code changes, refactored, and worked on data scripts and SPs for List and ListEntry table
+1. Completed SPs related to category page and template page, optimized import templates feature.
+2. Started working on interchanging dashboard page and template page.
+3. Fixed the bugs and UI fixes
+
