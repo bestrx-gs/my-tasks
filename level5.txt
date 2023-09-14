@@ -7,4 +7,13 @@ Sep 11th
 Sep 12th
 1. Completed interchanging the dashboard and template page
 2. Started working on the pagnation, other minor features for displaying templates.
-3. 
+
+Sep 13th
+1. Completed the views of the draft and published templates.
+2. Modified the GetTemplateList SP.
+
+Sep 14th
+1. Modify the GetCategoryList SP as it's not specific to draft and publish template.
+2. Modifying the visibility condition for import button based on pharmacyId instead of rolelevel.
+3. Make UI minor fixes such as placement of number of records 
+Clarifications[Mehul]: The GetCategoryList SP has to be modifed so that it displayes apprpriate category values for draft and published templates.
