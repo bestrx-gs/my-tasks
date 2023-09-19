@@ -17,3 +17,13 @@ Sep 14th
 2. Modifying the visibility condition for import button based on pharmacyId instead of rolelevel.
 3. Make UI minor fixes such as placement of number of records 
 Clarifications[Mehul]: The GetCategoryList SP has to be modifed so that it displayes apprpriate category values for draft and published templates.
+
+Sep 15th
+1. Completed initial implementation of the new dashboard page.
+2. Modified the SP for GetTemplateList to make it work for draft and published template
+
+Summary:
+1. Modified the template and dashboard routing to one and another.
+2. Modified SPs for GetCategoryList and GetTemplateList.
+3. Modified the look for draft and published templates.
+4. Initial implementation of new dashboard page is completed.

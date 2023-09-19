@@ -1,0 +1,10 @@
+Date
+    Status
+
+Sep 18th
+1. Completed working on the new dashboard page and ability to navigate to only draft and published templates.
+
+Sep 19th
+1. Started working on UI changes that would enable user to user the already implemented import templates page.
+2. And few more enhancement such as selecting the number of records to be displayed and 
+Published Templates should retain the category view list view featured.
