@@ -8,3 +8,8 @@ Sep 19th
 1. Started working on UI changes that would enable user to user the already implemented import templates page.
 2. And few more enhancement such as selecting the number of records to be displayed and 
 Published Templates should retain the category view list view featured.
+3. Completed the transition from Template Page to TemplateList Page with proper button click
+4. Enhanced few things in the Import Template Page.
+
+Sep 20th
+1. Completed CategoryView and ListView for the Published Templates.
