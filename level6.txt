@@ -13,3 +13,14 @@ Published Templates should retain the category view list view featured.
 
 Sep 20th
 1. Completed CategoryView and ListView for the Published Templates.
+
+Sep 21st
+1. Working on the category and list view for published templates
+
+Sep 22nd
+1. Fixed the issues in import templates that, state managment between import templates, dashboard and template pages.
+
+
+Summary:
+Completed the new Dashboard Page and modified the template page and now it shows only draft or published template or both based on user event in the dashboard page.
+Completed the list view for published temmplates. The chnages of these will be pushed to dev today after the code is reviewed by Mehul. 
