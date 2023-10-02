@@ -1,0 +1,10 @@
+Date
+    Status
+    
+Oct 2nd
+1. Testing the workflow of Dashboard >> template Page and Import Template page.
+
+
+Summary:
+Created the new dasboard page, and reworked on how we show the draft and published templates in the new template list page.
+And fixed 3 bugs among the list of bugs that I have found while testing the application.

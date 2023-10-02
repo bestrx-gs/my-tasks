@@ -1,0 +1,28 @@
+Date
+    Status
+
+Sep 25th
+1. completed the minor fixes in the UI. 
+2. Moved the Add template from import templates to the template page.
+
+Sep 26th
+1. Completed the viewbag fix, heading fix.
+2. Started working on the SP that gets ordered information of the response of user for specific template
+3. Completed the service endpoint for SP.
+
+Sep 27th
+1. Tested the application and found bugs in the code (column sorting, edit funcitonality). Fixes included changes in SP.
+2. Worked on the mobile view for dashboard page.
+
+Sep 28th
+1. Started working on th new dashboard UI.
+2. Started working on the testing the application.
+
+Sept 29th
+1. Fixes 3 bugs that I was detected.
+
+Summary:
+
+Created the new dasboard page, and reworked on how we show the draft and published templates in the new template list page.
+Completed the add template functionality , and worked on implementing the category and list view for published templates.
+state management between the dashboard, template list and import bestrx templates page has been completed.
