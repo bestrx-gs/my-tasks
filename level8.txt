@@ -4,7 +4,12 @@ Date
 Oct 2nd
 1. Testing the workflow of Dashboard >> template Page and Import Template page.
 
-
+Oct 3rd
+1. Worked on fixes in the QuestionPreview page and Dashboard pages, renaming template while previewing it causes error, text control and bugs that were caused 
 Summary:
 Created the new dasboard page, and reworked on how we show the draft and published templates in the new template list page.
 And fixed 3 bugs among the list of bugs that I have found while testing the application.
+
+Oct 4th
+1. Tested the Preview Controller, and reported back to mehul
+2. Started working on Preview feature for BestRx Template.
