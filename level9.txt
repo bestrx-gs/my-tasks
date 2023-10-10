@@ -1,0 +1,15 @@
+Date
+    Status
+    
+Oct 9th
+
+
+Oct 10th
+
+
+
+
+
+Summary:
+completed and working on fixes for template-list page regarding rendering of data table and entire page, to small fixes such as adding clear button to reset iinput fields
+Completed working on the small fixes for question confirguration and dashboard.

@@ -13,3 +13,9 @@ And fixed 3 bugs among the list of bugs that I have found while testing the appl
 Oct 4th
 1. Tested the Preview Controller, and reported back to mehul
 2. Started working on Preview feature for BestRx Template.
+
+Oct 5th
+
+Oct 6th
+
+Summary:
