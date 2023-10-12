@@ -2,14 +2,21 @@ Date
     Status
     
 Oct 9th
-
+1. Completed the tasks of preivous week enhancements and minor fixes in question configurations and templates page
 
 Oct 10th
+1. working on optimizing the templates page rendering and adding small features to the templates and questions configuration page.
+2. started working on adding import button to the preview of bestRx templates, proceeded to the testing of the latest version of the questionnnaire.
 
+Oct 11th
+2. fixed the minor bugs and tested on the questionnaire, and was working on documentation
 
-
+Oct 12th
+1. Tested the latest version and found issues, fixed the issues
+2. Worked on modifying the logic for the importTemplates that avoids duplicate template name imports
 
 
 Summary:
-completed and working on fixes for template-list page regarding rendering of data table and entire page, to small fixes such as adding clear button to reset iinput fields
-Completed working on the small fixes for question confirguration and dashboard.
+Completed enhacning the ImportTemplates SP to manage duplicate bestRx template imports to the current pharamcy, found 3 critical bugs,
+started working minor fixes.
+-- to be added
