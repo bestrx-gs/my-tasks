@@ -1,0 +1,12 @@
+Date
+    Status
+    
+Oct 16th
+1. Completed creating DeletePharamcy
+2. UI changes for menu items and working on error pages.
+
+
+
+
+
+Summary:

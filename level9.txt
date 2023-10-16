@@ -15,6 +15,10 @@ Oct 12th
 1. Tested the latest version and found issues, fixed the issues
 2. Worked on modifying the logic for the importTemplates that avoids duplicate template name imports
 
+Oct 13th
+1. REviewing the code changes for template list and bestRx templates.
+2. Fixed minor bugs, and code refactored few SPs.
+
 
 Summary:
 Completed enhacning the ImportTemplates SP to manage duplicate bestRx template imports to the current pharamcy, found 3 critical bugs,
