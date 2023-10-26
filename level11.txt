@@ -1,0 +1,20 @@
+Date
+    Status
+
+Oct 23rd
+1. Completed adding unpublish to the category view.
+
+Oct 24th
+1. Looking up one way synchronization for pharmacy tables in 
+
+Oct 25th
+1. Created Endpoint for ArchiveURL endpoint and stored procedure
+2. Started working on TinyURL Portal, Get and Save endpoints
+
+Oct 26th
+1. Started working on TinyURL Get and Save endpoints
+2. 
+
+
+Summary:
+completed the copyURL feature for published templates, and worked minor corrections and enhancements in question configuration and templates

@@ -2,11 +2,24 @@ Date
     Status
     
 Oct 16th
-1. Completed creating DeletePharamcy
+1. Completed creating DeletePharamcy endpoint and SP and started working on implementing save pharmacy endpoint.
 2. UI changes for menu items and working on error pages.
 
+Oct 17th
+1.Implementation for SavePharmacy and DeletePharmacy Endpoint
+2. stored procedure for savePharmacy and deletePharmacy
 
 
+Oct 18th
+1. Started working CopyURL functionality.
+2. issue: the template portal, wasn't executing in the local
 
+Oct 19th 
+1. resolved the execution issue by cooridinating with offshore team member.
+2. Working on copyURL funcitonality and making minor adjustments.
+
+Oct 20th
+1. Completed copy URl fucntionality.
+2. Started working on ..
 
 Summary:
