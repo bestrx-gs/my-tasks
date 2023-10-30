@@ -1,0 +1,16 @@
+Date
+    Status
+
+Oct 30th
+1. Completed testing the Questionnaire Portal (CRUD Category,CRUD Template,Copy Template,configure Template,Save Template,Preview Template,Publish Template,Unpublished Template,Copy link to the template)
+
+Oct 31st
+1.
+
+Nov 1st
+1. 
+
+Summary:
+worked on Get, and Archive endpoints in tinyURL portal and service project. worked on error pages for the same project.
+Made some logical fixes to SP for Get and Save tinyURL
+Started testing all of questionnaire portal.

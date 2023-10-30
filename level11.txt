@@ -15,6 +15,9 @@ Oct 26th
 1. Started working on TinyURL Get and Save endpoints
 2. 
 
+Oct 27th
+1. Reworked on GetTinyURL, onto separate project and SPs.
+2. Fixed logical issues and raised a doubts and got the issue resolved.
 
 Summary:
 completed the copyURL feature for published templates, and worked minor corrections and enhancements in question configuration and templates
