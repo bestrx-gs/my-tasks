@@ -3,14 +3,14 @@ Date
 
 Oct 30th
 1. Completed testing the Questionnaire Portal (CRUD Category,CRUD Template,Copy Template,configure Template,Save Template,Preview Template,Publish Template,Unpublished Template,Copy link to the template)
+2. Found few issues in template editor, and fixed them.
 
 Oct 31st
-1.
+1. I am  planning to start working on json
 
 Nov 1st
 1. 
 
 Summary:
-worked on Get, and Archive endpoints in tinyURL portal and service project. worked on error pages for the same project.
-Made some logical fixes to SP for Get and Save tinyURL
-Started testing all of questionnaire portal.
+completed developing GET and Archive the endpoints for TinyURL last week.
+And i am pushing minor fixes for the issues that i come across while testing the entire questionnaire application.
