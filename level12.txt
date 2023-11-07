@@ -12,10 +12,10 @@ Nov 1st
 1. Found few bugs while trying to create a questionnaire with 60 qs, currently i am working on those bugs(issues are with auto-scroll when adding heirarchy of grand-child and siblings qs in a single parent qs), star rating settings was glitching when chanigng one star rating another star rating was changing.
 
 Nov 2nd
-1. Working on the issue autoscroll, star rating issue.
+1. resolved on the issue autoscroll, star rating issue.
 
 Nov 3rd
-1. 
+1. comppleted the small fix for phone masking and copy link pop up functionality
 
 Summary:
 last week worked on the GET and Archive the endpoints for TinyURL last week.

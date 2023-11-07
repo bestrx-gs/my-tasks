@@ -1,0 +1,12 @@
+Date
+    Status
+
+Nov 11th
+1. started wokring on a task related to BestRx Application, and codebase.
+2. Completed task of enabling the the E-Prescribe option in transferRx screen.
+
+No 12th
+1. 
+2. 
+
+Summary
