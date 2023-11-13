@@ -1,12 +1,21 @@
 Date
     Status
+Nov 6th 
+1. Completed testing the questoinnaire application
 
-Nov 11th
+Nov 7th
 1. started wokring on a task related to BestRx Application, and codebase.
 2. Completed task of enabling the the E-Prescribe option in transferRx screen.
 
-No 12th
-1. 
-2. 
+Nov 8th
+1. Implementated adding an option for TransferRx screen to genereate the reciept address to the invoice
+
+Nov 9th
+1. Adding the codebase to revamp the XML generation, added logic to allow XML to be generated thorugh class
+
+Nov 10th
+1. Added the code for implementing the Pharmacy and Medication details to the XML generation.
 
 Summary
+Last week completed testing the whole Questionnaire app and fixing bugs in Questionnaire Portal.
+This week, I started working on Bestrx application, and currently working on task related TransferRx screen.
