@@ -1,7 +1,8 @@
 Date
     Status
 Nov 6th 
-1. Completed testing the questoinnaire application
+1. Started working on BestRx RX Transfer
+2. Completed the RxTransfer Button enabled upon the condiiton
 
 Nov 7th
 1. started wokring on a task related to BestRx Application, and codebase.

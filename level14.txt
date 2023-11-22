@@ -2,7 +2,18 @@ Date
     Status
 
 Nov 13th
-1. 
+1. Started working on writing logic for converting the RxTranfer XML based on classes than XMLWriter\
 
 Nov 14th
-1. 
+1. Started working on the wriitng logic BenefitsCoordination and AllergyAdverse
+
+Nov 15th
+1. Working on the MeducationDispensed Node
+
+Nov 16th
+1. Working on Pharmacust and Prescriber Node
+
+Nov 17th
+1. Completed the testing of the XML and adjusted the format of the nodes and made little changes to the logic required for the populating the data.
+
+Summary:

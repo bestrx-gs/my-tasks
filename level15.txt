@@ -1,0 +1,15 @@
+Date
+    Status
+
+Nov 20th
+1. Started working on the ReadMessage in ER-x application
+
+Nov 21st 
+1. completed the logic for reading the Pharmacist and Prescriber Node reading
+
+Nov 22nd
+1. Completed the logic required for the reading and sending the histroySource for MedicationDispensed
+
+Nov 23rd and Nov 24th - Holiday
+
+Summary:
