@@ -1,0 +1,9 @@
+Year
+Review # Date
+    Info - Pros and Cons
+
+2023
+Review 28th November
+1. Introduction to the practice of quarterly review linked to bonus evaluation
+2. Need to understadn more about pharmacy software product such as POS and BestRxWin.
+3. Should scale up with regards to the understanding of the architecture and coding in VB.NET.
