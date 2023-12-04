@@ -1,0 +1,12 @@
+Date
+    Status
+
+Dec 4th
+1. 
+
+Dec 5th
+1.
+
+
+Summary:
+Completed the Send Message via email/sms for custom log report and  

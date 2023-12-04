@@ -1,0 +1,21 @@
+Date
+    Status
+
+Nov 27th
+1. Started working on the sendMessage- Email/SMS, looking into patient listing
+
+Nov 28th
+1. The SendMessage funcitonality implemented and facing an bgworker thread exception
+
+Nov 29th
+1. Completed adding select and unselect all button.
+
+Nov 30th
+1. Held up on the resize issue of the xgd report overlapping on the selectAll and unselectAll
+
+December 1st
+1. Fixed the resize issue, and improvised the reize logical statement.
+
+Summary:
+The delays faced were specific to the designer changes related to the size of xgdreport.
+But the sendMessage functionality has been implemented successfully
