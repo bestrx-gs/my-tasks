@@ -2,11 +2,20 @@ Date
     Status
 
 Dec 4th
-1. 
+1. Started revamping the code for XML and custom log
 
 Dec 5th
-1.
+1. Continued with code review seesion with Geeta
 
+Dec 6th
+1. Completed the code review and changes from smallest naming convention to logical flow of the coding changes
+
+Dec 7th
+1. Started working on the new task, got introduced to the feature of inbound faxes
+
+Dec 8th
+1. Started understanding the flow of inbound faxes, linking faxes to prescription (NewRx,InTakeRx and Existing Rx) and patients profile. Started understanding
+the document upload in document section of Rx and Patients
 
 Summary:
-Completed the Send Message via email/sms for custom log report and  
+Completed the Send Message via email/sms for custom log report and started working on inbound faxes task.

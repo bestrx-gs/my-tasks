@@ -1,0 +1,21 @@
+Date
+    Status
+
+Dec 11th
+1. Completed developing the inbound faxes feature for linking the fax to the document section of Rx.
+
+
+Dec 12th
+1. Completed testing the feature and made UI changes to the feature.
+2. Completed working on linking single inbound fax to multiple prescription.
+
+Dec 13th
+1. 
+
+Dec 14th
+1. 
+
+Dec 15th
+1.
+
+Summary

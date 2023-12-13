@@ -1,7 +1,7 @@
 # Learning - In Office 
 ```
 1. Database - SQL Server from concepts to scripts 
-2. VB.NET and C# - Design Patterns 
+2. VB.NET and C# - Design Patterns [https://www.udemy.com/course/advanced-vb-net/]
 ```
 
 # Learning - Away Office
