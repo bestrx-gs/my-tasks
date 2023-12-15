@@ -10,12 +10,14 @@ Dec 12th
 2. Completed working on linking single inbound fax to multiple prescription.
 
 Dec 13th
-1. 
+1. reworked on the custom log feature, submitted for code review
 
 Dec 14th
-1. 
+1. completed the custom log feature and link fax feature, submitted the changes to vishnu for code review
 
 Dec 15th
 1.
 
 Summary
+Completed with development for custom log send notification feature, and also completed with link fax to prescription document.
+Start looking into insurance claim form
