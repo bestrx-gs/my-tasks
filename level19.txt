@@ -1,0 +1,24 @@
+Date
+    Status
+    
+Dec 18th
+1. Submitted the CustomLog to testing team
+2. Mapping CMS 1450 form to Db
+
+Dec 19th
+1. Fixed Bugs 9097,9098 and 9099
+2. Working on mapping function 1480 function
+3. optimized the inbound faxes changes. 
+
+Dec 20th
+1. Implemented a class for 1500 CMs and sarted working on a funciton to load the data
+2. reworked on minor UI things for custom log
+
+Dec 21st
+1. completed with custom log, committed the changes
+2. Completed with correction for inbound faxes.
+
+Summary:
+1. checked in the changes for  custom log
+2. Relating to Insurance Claim task, working on a fucntion that loads data related to CMS form
+3. Vishnu asked to make changes for inbound faxes- link fax feature
