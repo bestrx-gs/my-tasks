@@ -1,0 +1,22 @@
+Date
+    Status
+
+Dec 25th
+1. Holiday
+
+Dec 26th
+1. Fixed the bugs for Inbound Faxes in morning
+2. Working on CMS1450
+
+Dec 27th
+1. Fixed the bugs in the morning
+2. Working on CMS 1450
+
+Dec 28th 
+1. Fixed bugs morning and after lunch (discussing new bugs and glitches like Sonam)
+2. Working on CMS 1450 class
+
+
+Summary:
+1. Tested and fixed bugs for the Inbound Faxes functionality.
+2. Working on CMS 1450
